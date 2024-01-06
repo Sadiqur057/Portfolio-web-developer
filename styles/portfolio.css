@@ -148,3 +148,13 @@ main{
   color: #757575;
   line-height: 28px;
 }
+
+/* Resume section styles */
+.resume-container{
+  display: flex;
+}
+.resume-col-title{
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+}
